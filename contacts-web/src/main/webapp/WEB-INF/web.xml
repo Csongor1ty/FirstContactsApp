@@ -1,0 +1,15 @@
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+  <context-param>
+    <param-name>login-filter-exclusion</param-name>
+    <param-value>
+      /index.jsp,
+      /pages/login.jsp,
+      /LoginController,
+      /pages/register.jsp,
+      /RegisterController,
+      /css/style.css
+    </param-value>
+  </context-param>
+</web-app>

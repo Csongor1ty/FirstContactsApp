@@ -1,0 +1,11 @@
+hu\alkfejl\model\Contact.class
+hu\alkfejl\dao\ContactDAO.class
+hu\alkfejl\dao\PhoneDAO.class
+hu\alkfejl\model\Phone.class
+hu\alkfejl\dao\UserDAO.class
+hu\alkfejl\config\ContactConfiguration.class
+hu\alkfejl\dao\ContactDAOImpl.class
+hu\alkfejl\dao\PhoneDAOImpl.class
+hu\alkfejl\model\Phone$PhoneType.class
+hu\alkfejl\dao\UserDAOImpl.class
+hu\alkfejl\model\User.class
