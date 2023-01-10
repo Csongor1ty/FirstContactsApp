@@ -1,0 +1,8 @@
+hu\alkfejl\controller\RegisterController.class
+hu\alkfejl\controller\LogoutController.class
+hu\alkfejl\controller\DeleteContactController.class
+hu\alkfejl\controller\UserController.class
+hu\alkfejl\controller\UpdateContactController.class
+hu\alkfejl\filter\AuthFilter.class
+hu\alkfejl\controller\ContactController.class
+hu\alkfejl\controller\LoginController.class
